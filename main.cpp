@@ -1198,8 +1198,7 @@ if((strcmp(name,c_username)==0) && (strcmp(password,c_password)==0) &&f_pass==1)
 
 
     }
- else if((strcmp(name,"aravind")==0) && (strcmp(password , "123456")==0)||
-       (strcmp(name,"akshay")==0) && (strcmp(password , "123456")==0))
+ else if((strcmp(name,"user")==0) && (strcmp(password , "123456")==0))
     {
 
         phase=2;
